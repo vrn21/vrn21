@@ -12,7 +12,7 @@
 
 <h3>My Design Portfolio:</h3>
 
-<a href = "https://www.figma.com/file/lLZ2Vxs5FLIAhwlUDUuC0V/PortFolio?type=design&node-id=0%3A1&mode=design&t=YoYBXWp0JC54xvIK-1">
+<a href = "">
 ![Design portfolio ](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <a/>
 
