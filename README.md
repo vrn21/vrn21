@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm K V Varun Krishnan</h1>
+
+<img src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw0ePRmgbqJ8pvlBe65qou9q&ust=1696746974894000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjC-pep44EDFQAAAAAdAAAAABAE" >
 <h3 align="center">A passionate web3 developer</h3>
 
 - 📫 How to reach me **varunkkv.mec@gmail.com**
