@@ -1,6 +1,6 @@
 <h1 align="center">gm👋, im K V Varun Krishnan</h1>
 
- <img align = "center"src = "https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif  > 
+ <img align = "center"src = "https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif  /> 
 <h2 align="center">A passionate web3 developer cum designer, currently tinkering with React and Rust</h2>
 
 - ⚡ Fun fact **rust >>> any other lang**
