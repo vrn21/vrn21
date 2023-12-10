@@ -1,3 +1,7 @@
+<div align="center">
+ 
+
+
 <h1 align="center">gm👋, im K V Varun Krishnan</h1>
 
  <img src = "https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" >
@@ -20,3 +24,5 @@ My Design Portfolio
 
 
 [![An image of @vrn21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vrn21)](https://holopin.io/@vrn21)
+
+</div>
