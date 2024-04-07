@@ -22,8 +22,8 @@ My Design Portfolio
 
 
  ![made-in-kunnamkulam](https://raw.githubusercontent.com/TheoIsDumb/charapara/master/static/kunnamkulam_optimized.svg)
- ![vim-uyr](https://raw.githubusercontent.com/TheoIsDumb/charapara/master/static/stickers/vim2.svg)
- ![trust-the-rusty](https://raw.githubusercontent.com/TheoIsDumb/charapara/master/static/stickers/rust.svg)
+ //![vim-uyr](https://raw.githubusercontent.com/TheoIsDumb/charapara/master/static/stickers/vim2.svg)
+ //![trust-the-rusty](https://raw.githubusercontent.com/TheoIsDumb/charapara/master/static/stickers/rust.svg)
 
 
 
