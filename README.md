@@ -1,9 +1,1 @@
-<div align="center">
- 
-<img style="height:200px;" src="https://raw.githubusercontent.com/TheoIsDumb/charapara/master/static/kunnamkulam_optimized.svg">
- <img style="height:200px;" src="https://raw.githubusercontent.com/TheoIsDumb/charapara/master/static/stickers/vim2.svg">
-  <img style="height:200px;" src="https://raw.githubusercontent.com/TheoIsDumb/charapara/master/static/stickers/rust.svg">
-
-
-
-</div>
+Junior CS student from Kerala, India. Trying to learn Rust, building a half-finished <a href="https://github.com/vrn21/shorterdb/">key-value store</a>. Interned at <a href="https://fileago.com">Fileago</a>, dabbling in systems programming. Still figuring out most things, but somewhat passionate about databases and low-level tech. Probably won't change the world, but learning along the way.
